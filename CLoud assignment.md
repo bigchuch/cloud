@@ -1,5 +1,3 @@
-# cloud
-
 # CLoud Engineering
 
 **My first cloud engineering assignment to do the following below in linux environment**
